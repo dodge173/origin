@@ -9,3 +9,8 @@
 \{\
 	printf(\'93Hello ITI\'94);\
 \}}
+            
+            void printHelloGit()
+            {
+        printf("Hello Git\n");
+    }
